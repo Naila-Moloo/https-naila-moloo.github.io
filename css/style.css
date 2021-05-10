@@ -44,7 +44,7 @@
 	text-transform: uppercase;
 	font-family: 'Exo', sans-serif;
 	font-size: 18px;
-	line-height: 100px;
+	line-height: 250px;
 	letter-spacing: 2px;
 	-webkit-transition: all 500ms cubic-bezier(0.600, 0, 0.735, 0.045); /* older webkit */
 	-webkit-transition: all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045); 
